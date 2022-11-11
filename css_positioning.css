@@ -1,0 +1,41 @@
+.red{
+    background-color: red;
+    /* display: inline-block; */
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    bottom: 600px;
+    bottom: 610px;
+    /* position: relative; */
+    /* left: 100px; */
+
+}
+
+.blue{
+    background-color: blue;
+    /* display: inline-block; */
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 710px;
+    left: 100px;
+    /* position: relative; */
+    /* bottom: 100px; */
+}
+
+.yellow{
+    background-color: yellow;
+    /* display: inline-block; */
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    /* position: relative; */
+    top: 0px;
+    left: 0px;
+    
+}
+
+.body{
+    margin: 0;
+}
